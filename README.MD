@@ -76,3 +76,14 @@ Options, roughly fastest→most accurate: `tiny`, `base`, `small`, `medium`, `la
   that's normal, just let it run.
 - This is a local single-user tool (no login, no cloud) — don't expose
   port 5000 to the internet as-is.
+
+
+## License
+
+This project is intended for **educational and personal use only**, including
+generating subtitles to understand or watch necessary video content.
+
+Commercial use, redistribution, republication, or claiming the project as
+your own is not permitted without prior permission.
+
+See the [LICENSE](LICENSE) file for full terms.
